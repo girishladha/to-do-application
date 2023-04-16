@@ -1,0 +1,43 @@
+.bucket1 {
+    position: absolute;
+    left: 170px;
+    background-color:darkkhaki;
+    padding: 30px;
+}
+
+.maya {
+    position: absolute;
+    right: 490px;
+    background-color: darkkhaki;
+    padding: 22px;
+
+}
+
+body{
+    background: url(background.jpg) no-repeat center fixed; 
+        background-size: cover;
+}
+h2{
+    background-color: chocolate;
+}
+
+button{
+    color: black;
+    background-color: green;
+    border-color: black;
+    border-radius: 4px;
+}
+.btn{
+    color:white;
+    background-color: red;
+    border-color:black;
+    border-radius: 4px;
+}
+
+footer{
+    position: absolute;
+    bottom: 1px;
+    right: 625px;
+    color: whitesmoke;
+    
+}
